@@ -11,9 +11,9 @@ This repository contains the backend for a chat application, including API endpo
 
 ## Prerequisites
 
-- Node.js (v14.0.0 or later)
-- MongoDB (v4.0 or later)
-- npm or yarn
+- Node.js 
+- MongoDB 
+- npm
 
 ## Installation
 
@@ -44,3 +44,5 @@ This repository contains the backend for a chat application, including API endpo
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+# 😊
